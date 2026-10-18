@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=210&section=header&text=Tanmay%20Porwal&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Builder&descSize=16&descAlignY=58" width="100%" alt="Tanmay Porwal profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=210&section=header&text=Tanmay%20Porwal&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CS%20Undergrad%20%7C%20AI%2FML%20Enthusiast%20%7C%20Builder&descSize=16&descAlignY=58" width="100%" alt="Tanmay Porwal profile banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=650&lines=Building+things+that+solve+real+problems;Exploring+AI%2FML+%26+intelligent+systems;Learning%2C+shipping%2C+and+getting+better+every+day" alt="Typing SVG" />
