@@ -1,15 +1,127 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanmay_1313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-porwal-885b10274) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mangolassi74) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmayporwal19@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=210&section=header&text=Tanmay%20Porwal&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Builder&descSize=16&descAlignY=58" width="100%" alt="Tanmay Porwal profile banner" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tp318&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tp318&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tp318&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=650&lines=Building+things+that+solve+real+problems;Exploring+AI%2FML+%26+intelligent+systems;Learning%2C+shipping%2C+and+getting+better+every+day" alt="Typing SVG" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=tp318&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  <img src="https://img.shields.io/badge/Undergraduate-CSE%20%7C%202028-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="CSE undergraduate, class of 2028" />
+  <img src="https://img.shields.io/badge/Focus-SDE%20%2B%20AI%2FML-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" alt="Software engineering and AI ML" />
+  <img src="https://img.shields.io/badge/Always-Learning-0F9D8A?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning" />
+</p>
+
+</div>
+
+whoami 👨‍💻
+Hey! I'm Tanmay, a Computer Science undergraduate at NMIMS (Class of 2028). I'm interested in the intersection of software engineering, machine learning, and intelligent applications.
+I like turning ideas into working products — from full-stack applications and backend systems to AI-powered tools. Right now, I'm focused on strengthening my fundamentals, building projects with real-world use cases, and learning how to take systems from prototype to deployment.
+class Tanmay:
+    def __init__(self):
+        self.role = "Computer Science Undergraduate"
+        self.interests = ["Software Engineering", "AI/ML", "Research"]
+        self.current_focus = ["DSA", "Machine Learning", "Backend Engineering"]
+        self.languages = ["Python", "C++", "Java", "JavaScript", "TypeScript"]
+        self.mindset = "Build → Learn → Improve → Repeat"
+⚡ What I'm working towards
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 Problem Solving</h3>
+      Building strong DSA fundamentals, improving competitive programming skills, and working towards participating in ICPC.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI & Machine Learning</h3>
+      Exploring ML/DL, LLM applications, RAG pipelines, model evaluation, and deploying useful AI systems.
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Software Engineering</h3>
+      Improving at backend development, databases, system design, cloud infrastructure, and end-to-end product building.
+    </td>
+  </tr>
+</table>
+
+🚀 Featured projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 SplitEase</h3>
+      <p><b>AI-assisted expense splitting</b></p>
+      A hackathon project exploring shared-expense tracking, UPI-oriented payment flows, QR payments, and AI-powered wants-versus-needs insights.
+      <br/><br/>
+      <sub><b>Stack:</b> Firebase · Firestore · Gemini · JavaScript · QR</sub>
+      <br/><br/>
+      <sub>🏅 Top 7 in the Fintech Innovation track at Hackorbit 2025</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧺 FreshFold</h3>
+      <p><b>Laundry management application</b></p>
+      A project exploring the workflow of a laundry service, with an initial Python/SQLite implementation and a modern web-app direction.
+      <br/><br/>
+      <sub><b>Stack:</b> Python · SQLite · React · Tailwind CSS · Firebase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚢 FreightPulse</h3>
+      <p><b>Signals for MSME exporters</b></p>
+      A data-driven concept that brings together global news and weather signals to help exporters monitor developments that may affect operations.
+      <br/><br/>
+      <sub><b>Stack:</b> Python · GDELT · OpenWeather</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Document Q&A / RAG</h3>
+      <p><b>Retrieval-augmented question answering</b></p>
+      Exploring document retrieval and grounded question answering, with attention to API design, useful context retrieval, and traceable responses.
+      <br/><br/>
+      <sub><b>Stack:</b> FastAPI · Pinecone · PostgreSQL · LLM APIs</sub>
+    </td>
+  </tr>
+</table>
+
+🛠️ Tech stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,html,css,tailwind&perline=9" alt="Programming languages and frontend technologies" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,firebase,postgres,sqlite,git,github,aws&perline=9" alt="Backend, database, and developer tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-7C3AED?style=flat-square" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Exploring-7C3AED?style=flat-square" alt="Deep learning" />
+  <img src="https://img.shields.io/badge/RAG-Hands--on-2563EB?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/NumPy-Data-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" alt="Matplotlib" />
+</p>
+
+<sub>My stack is evolving — these are technologies I've used and areas I'm actively learning, not a claim of equal proficiency in everything.</sub>
+📖 Current learning path
+- DSA & Competitive Programming: consistency, core patterns, problem-solving, and ICPC preparation.
+- Applied AI/ML: stronger mathematical foundations, deep learning, experimentation, and model deployment.
+- Backend & Systems: API design, databases, scalable architecture, cloud, and DevOps fundamentals.
+- Open Source: understanding production codebases and making meaningful contributions.
+🔬 Research interests
+I'm particularly curious about environmental and spatiotemporal machine learning — especially air-quality/PM2.5 forecasting, weather and monsoon prediction, and neural-operator-inspired approaches to scientific modelling.
+📊 GitHub dashboard
+<!-- Replace YOUR_GITHUB_USERNAME below to activate your live GitHub statistics. -->
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+🎸 Beyond the keyboard
+Guitar • Piano • Chess • Travel • Nature • Exploring new ideas
+<div align="center">
+  <h3>Let's build something meaningful.</h3>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:243B55,100:141E30&height=100&section=footer" width="100%" alt="Footer banner" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
